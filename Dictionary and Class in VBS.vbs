@@ -1,5 +1,5 @@
 
-'#################  Dictionary using  ############
+'################# VBS Dictionary using  ############
 
 Dim dic
 Set dic = createobject("Scripting.Dictionary")
